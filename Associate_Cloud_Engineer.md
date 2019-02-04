@@ -1,8 +1,10 @@
-# Associate CLoud Engineer
-https://cloud.google.com/certification/guides/cloud-engineer/
+# Google Associate CLoud Engineer
 
-Certification Exam Guide
-Section 1: Setting up a cloud solution environment
+Online resources that will help you prepare for taking the [Google Associate Cloud Engineer](https://cloud.google.com/certification/guides/cloud-engineer/) exam
+
+## Exam Objectives
+
+### Section 1: Setting up a cloud solution environment
 
 1.1 Setting up cloud projects and accounts. Activities include:
 
