@@ -2,7 +2,8 @@
 
 Online resources to help you prepare for taking the [Google Associate Cloud Engineer](https://cloud.google.com/certification/guides/cloud-engineer/) exam
 
-## Exam Objectives
+
+
 
 ### Section 1:  Setting up a cloud solution environment 
 
@@ -33,13 +34,12 @@ Online resources to help you prepare for taking the [Google Associate Cloud Engi
 * Setting up billing exports to estimate daily/monthly charges.
 
 
-** 1.3 Installing and configuring the command line interface (CLI), specifically the Cloud SDK (e.g., setting the default project) **
+**1.3 Installing and configuring the command line interface (CLI), specifically the Cloud SDK (e.g., setting the default project)**
+
 
 ### Section 2: Planning and configuring a cloud solution
 
 **2.1 Planning and estimating GCP product use using the Pricing Calculator**
-
-
 
 **2.2 Planning and configuring compute resources** 
 
