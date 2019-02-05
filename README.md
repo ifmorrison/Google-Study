@@ -1,6 +1,6 @@
-# Google Associate CLoud Engineer
+# Google Associate Cloud Engineer
 
-Online resources that will help you prepare for taking the [Google Associate Cloud Engineer](https://cloud.google.com/certification/guides/cloud-engineer/) exam
+Online resources to help you prepare for taking the [Google Associate Cloud Engineer](https://cloud.google.com/certification/guides/cloud-engineer/) exam
 
 ## Exam Objectives
 
@@ -41,7 +41,7 @@ Online resources that will help you prepare for taking the [Google Associate Clo
 
 
 
-** 2.2 Planning and configuring compute resources** 
+**2.2 Planning and configuring compute resources** 
 
 Considerations include:
 
