@@ -109,7 +109,9 @@ Deploying a container application to Kubernetes Engine using pods.
 
 Configuring Kubernetes Engine application monitoring and logging.
 
-[Kubernetes Engine Monitoring](https://cloud.google.com/kubernetes-engine/docs/how-to/monitoring)  This page explains how to use Stackdriver Monitoring to monitor your Google Kubernetes Engine clusters.
+- [Kubernetes Engine Logging](https://cloud.google.com/kubernetes-engine/docs/how-to/logging) How to use Stackdriver Logging to collect and query logs from your Google Kubernetes Engine clusters
+
+[Kubernetes Engine Monitoring](https://cloud.google.com/kubernetes-engine/docs/how-to/monitoring)  How to use Stackdriver Monitoring to monitor your Google Kubernetes Engine clusters
 
 **3.3 Deploying and implementing App Engine and Cloud Functions resources**
 
