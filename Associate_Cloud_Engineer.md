@@ -50,6 +50,7 @@ Specifically the Cloud SDK (e.g., setting the default project)
 
 **2.1 Planning and estimating GCP product use using the Pricing Calculator**
 
+
 **2.2 Planning and configuring compute resources** 
 
 Considerations include:
@@ -58,20 +59,26 @@ Considerations include:
 
 * Using preemptible VMs and custom machine types as appropriate.
 
+
 **2.3 Planning and configuring data storage options**
  
  Considerations include:
 
 - Product choice (e.g., Cloud SQL, BigQuery, Cloud Spanner, Cloud Bigtable)
+
 - Choosing storage options (e.g., Regional, Multi-regional, Nearline, Coldline)
+
 
 **2.4 Planning and configuring network resources**
 
  Tasks include:
 
 * Differentiating load balancing options.
+
 * Identifying resource locations in a network for availability.
+
 * Configuring Cloud DNS.
+
 
 ### Section 3: Deploying and implementing a cloud solution
 
@@ -155,7 +162,7 @@ Tasks include:
 ### Section 4: Ensuring successful operation of a cloud solution
 
  **4.1 Managing Compute Engine resources**
- 
+
 Tasks include:
 
 - Managing a single VM instance (e.g., start, stop, edit configuration, or delete an instance).
@@ -190,6 +197,7 @@ Tasks include:
 
 - Working with management interfaces (e.g., Cloud Console, Cloud Shell, Cloud SDK).
 
+
 **4.3 Managing App Engine resources**
 
  Tasks include:
@@ -221,6 +229,7 @@ Tasks include:
 
 - Working with management interfaces (e.g., Cloud Console, Cloud Shell, Cloud SDK).
 
+
 **4.5 Managing networking resources**
 
  Tasks include:
@@ -232,6 +241,7 @@ Tasks include:
 - Reserving static external or internal IP addresses.
 
 - Working with management interfaces (e.g., Cloud Console, Cloud Shell, Cloud SDK).
+
 
 **4.6 Monitoring and logging**
 
