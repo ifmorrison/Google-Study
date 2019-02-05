@@ -103,12 +103,13 @@ Considerations include:
 
  Tasks include:
 
-- Deploying a Kubernetes Engine cluster.
+Deploying a Kubernetes Engine cluster.
 
-- Deploying a container application to Kubernetes Engine using pods.
+Deploying a container application to Kubernetes Engine using pods.
 
-- Configuring Kubernetes Engine application monitoring and logging.
+Configuring Kubernetes Engine application monitoring and logging.
 
+[Kubernetes Engine Monitoring](https://cloud.google.com/kubernetes-engine/docs/how-to/monitoring)  This page explains how to use Stackdriver Monitoring to monitor your Google Kubernetes Engine clusters.
 
 **3.3 Deploying and implementing App Engine and Cloud Functions resources**
 
