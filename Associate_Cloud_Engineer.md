@@ -4,15 +4,17 @@ Online resources to help you prepare for taking the [Google Associate Cloud Engi
 
 
 
-
 ### Section 1:  Setting up a cloud solution environment 
+
 
 **1.1 Setting up cloud projects and accounts. Activities include:**
 
 * Creating projects
+
 [Creating and Managing Projects](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
 
 * Assigning users to pre-defined IAM roles within a project.
+
 [Access Control for Projects Using IAM](https://cloud.google.com/resource-manager/docs/access-control-proj)
 
 * Linking users to G Suite identities.
@@ -25,6 +27,7 @@ Online resources to help you prepare for taking the [Google Associate Cloud Engi
 
 
 **1.2 Managing billing configuration. Activities include:**
+
 
 * Creating one or more billing accounts.
 
