@@ -41,7 +41,7 @@ Online resources to help you prepare for taking the [Google Associate Cloud Engi
 
 
 
-** 2.2 Planning and configuring compute resources** 
+**2.2 Planning and configuring compute resources** 
 
 Considerations include:
 
