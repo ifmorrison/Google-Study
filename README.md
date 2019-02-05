@@ -2,16 +2,21 @@
 
 Online resources to help you prepare for taking the [Google Associate Cloud Engineer](https://cloud.google.com/certification/guides/cloud-engineer/) exam
 
-## Exam Objectives
+
 
 ### Section 1:  Setting up a cloud solution environment 
 
-**1.1 Setting up cloud projects and accounts. Activities include:**
+
+**1.1 Setting up cloud projects and accounts**
+ 
+ Activities include:
 
 * Creating projects
+
 [Creating and Managing Projects](https://cloud.google.com/resource-manager/docs/creating-managing-projects)
 
 * Assigning users to pre-defined IAM roles within a project.
+
 [Access Control for Projects Using IAM](https://cloud.google.com/resource-manager/docs/access-control-proj)
 
 * Linking users to G Suite identities.
@@ -23,23 +28,27 @@ Online resources to help you prepare for taking the [Google Associate Cloud Engi
 * Provisioning one or more Stackdriver accounts.
 
 
-**1.2 Managing billing configuration. Activities include:**
+**1.2 Managing billing configuration**
+ 
+ Activities include:
 
 * Creating one or more billing accounts.
 
 * Linking projects to a billing account.
 
 * Establishing billing budgets and alerts.
+
 * Setting up billing exports to estimate daily/monthly charges.
 
 
-** 1.3 Installing and configuring the command line interface (CLI), specifically the Cloud SDK (e.g., setting the default project) **
+**1.3 Installing and configuring the command line interface (CLI)**
+
+Specifically the Cloud SDK (e.g., setting the default project)
+
 
 ### Section 2: Planning and configuring a cloud solution
 
 **2.1 Planning and estimating GCP product use using the Pricing Calculator**
-
-
 
 **2.2 Planning and configuring compute resources** 
 
@@ -90,6 +99,7 @@ Considerations include:
 - Deploying a Kubernetes Engine cluster.
 
 - Deploying a container application to Kubernetes Engine using pods.
+
 - Configuring Kubernetes Engine application monitoring and logging.
 
 
@@ -144,8 +154,8 @@ Tasks include:
 
 ### Section 4: Ensuring successful operation of a cloud solution
 
- **4.1 Managing Compute Engine resources**#
-
+ **4.1 Managing Compute Engine resources**
+ 
 Tasks include:
 
 - Managing a single VM instance (e.g., start, stop, edit configuration, or delete an instance).
@@ -251,7 +261,9 @@ Tasks include:
 Tasks include:
 
 - Viewing account IAM assignments.
+
 - Assigning IAM roles to accounts or Google Groups.
+
 - Defining custom IAM roles.
 
 
@@ -262,6 +274,8 @@ Tasks include:
 - Managing service accounts with limited scopes.
 
 - Assigning a service account to VM instances.
+
 - Granting access to a service account in another project.
+
 
 **5.3 Viewing audit logs for project and managed services**

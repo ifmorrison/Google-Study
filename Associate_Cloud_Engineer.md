@@ -154,8 +154,8 @@ Tasks include:
 
 ### Section 4: Ensuring successful operation of a cloud solution
 
- **4.1 Managing Compute Engine resources**#
-
+ **4.1 Managing Compute Engine resources**
+ 
 Tasks include:
 
 - Managing a single VM instance (e.g., start, stop, edit configuration, or delete an instance).
