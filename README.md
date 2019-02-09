@@ -26,14 +26,22 @@ Online resources to help you prepare for taking the [Google Associate Cloud Engi
 
 * Linking users to G Suite identities.
 
-  Cloud Identity?
-  https://support.google.com/cloudidentity/answer/7389973
+[Cloud Identity](https://support.google.com/cloudidentity/answer/7389973)
+
+[Create Cloud Identity user accounts](https://support.google.com/cloudidentity/answer/7332836?hl=en)
 
 
 *  Enabling APIs within projects.
 
+[Enabling and Disabling Services ](https://cloud.google.com/service-management/enable-disable)
+[Enabling and Disabling Services via CLI](https://cloud.google.com/sdk/gcloud/reference/services/)
+
+
 * Provisioning one or more Stackdriver accounts.
 
+[Workspaces](https://cloud.google.com/monitoring/accounts/)
+
+Note: "Stackdriver accounts" have been renamed "Workspaces" to reflect their use as a "single pane of glass" through which you view resources from multiple projects and Amazon Web Services (AWS) accounts. There is no change in their functionality.
 
 **1.2 Managing billing configuration**
  
@@ -273,6 +281,17 @@ Tasks include:
 - Viewing Google Cloud Platform status.
 
 - Working with management interfaces (e.g., Cloud Console, Cloud Shell, Cloud SDK).
+
+
+       # To install the Stackdriver monitoring agent:
+        $ curl -sSO https://dl.google.com/cloudagents/install-monitoring-agent.sh
+        $ sudo bash install-monitoring-agent.sh
+
+        # To install the Stackdriver logging agent:
+        $ curl -sSO https://dl.google.com/cloudagents/install-logging-agent.sh
+        $ sudo bash install-logging-agent.sh
+      
+
 
 
 ### Section 5: Configuring access and security
