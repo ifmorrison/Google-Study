@@ -17,7 +17,12 @@ Online resources to help you prepare for taking the [Google Associate Cloud Engi
 
 * Assigning users to pre-defined IAM roles within a project.
 
+[Cloud Identity and Access Management](https://cloud.google.com/iam/docs/overview)
+
 [Access Control for Projects Using IAM](https://cloud.google.com/resource-manager/docs/access-control-proj)
+[Understanding Roles](https://cloud.google.com/iam/docs/understanding-roles)
+[Granting, Changing, and Revoking Access to Resources ](https://cloud.google.com/iam/docs/granting-changing-revoking-access)
+
 
 * Linking users to G Suite identities.
 
@@ -108,6 +113,10 @@ Considerations include:
 - Deploying a container application to Kubernetes Engine using pods.
 
 - Configuring Kubernetes Engine application monitoring and logging.
+
+[Kubernetes Engine Logging](https://cloud.google.com/kubernetes-engine/docs/how-to/logging)` How to use Stackdriver Logging to collect and query logs from your Google Kubernetes Engine clusters
+
+[Kubernetes Engine Monitoring](https://cloud.google.com/kubernetes-engine/docs/how-to/monitoring)  How to use Stackdriver Monitoring to monitor your Google Kubernetes Engine clusters
 
 
 **3.3 Deploying and implementing App Engine and Cloud Functions resources**
