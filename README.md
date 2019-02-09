@@ -26,7 +26,7 @@ Online resources to help you prepare for taking the [Google Associate Cloud Engi
 
 * Linking users to G Suite identities.
 
-        ?????
+  Cloud Identity?
 
 *  Enabling APIs within projects.
 
